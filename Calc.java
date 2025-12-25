@@ -10,6 +10,7 @@ public class Calc{
 		int num2 = sc.nextInt();
 
 		System.out.println("Addition: " + (num1+num2));
+		System.out.println("Multiplication: " + (num1 * num2));
 		sc.close();
 	}
 }
